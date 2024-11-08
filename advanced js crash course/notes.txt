@@ -1,0 +1,2 @@
+What is the practical application of function currying?
+Partial Function Application: Currying allows you to create partially applied functions, where you fix some of the arguments in advance and leave the rest to be supplied later. This is useful when you have a function that requires some parameters to be the same across multiple calls.
